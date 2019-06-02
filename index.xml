@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Varun Dhananjaya</title>
+    <link>https://vdhanan.github.io/</link>
+    <description>Recent content on Varun Dhananjaya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 May 2019 20:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://vdhanan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>https://vdhanan.github.io/projects/</link>
+      <pubDate>Fri, 31 May 2019 20:00:00 -0700</pubDate>
+      
+      <guid>https://vdhanan.github.io/projects/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://vdhanan.github.io/posts/</link>
+      <pubDate>Fri, 31 May 2019 19:21:19 -0700</pubDate>
+      
+      <guid>https://vdhanan.github.io/posts/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>A bit about me...</title>
+      <link>https://vdhanan.github.io/about/</link>
+      <pubDate>Fri, 31 May 2019 15:35:19 -0700</pubDate>
+      
+      <guid>https://vdhanan.github.io/about/</guid>
+      <description>I am a recent graduate of Claremont McKenna College, where I majored in Computer Science (through neighboring Pomona College).
+I am curious, competitive, and hard-working.
+I like to play chess, poker, and basketball. Feel free to add me on chess.com if you play.
+I also like to read&amp;hellip; everything from graphic novels to personal essays.
+I write some of my musings about tech, film, and other miscellaneous topics on my blog.</description>
+    </item>
+    
+  </channel>
+</rss>
