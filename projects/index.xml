@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Varun Dhananjaya</title>
+    <link>https://vdhanan.github.io/projects/</link>
+    <description>Recent content on Varun Dhananjaya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Jun 2019 14:38:09 -0700</lastBuildDate>
+    
+	<atom:link href="https://vdhanan.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chess Bot</title>
+      <link>https://vdhanan.github.io/projects/chess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vdhanan.github.io/projects/chess/</guid>
+      <description>Chess AI Play chess against an engine! Drag the white pieces to move. var board = nullvar game = new Chess()var minimaxRoot =function(depth, game, isMaximisingPlayer) {var newGameMoves = game.moves();var bestMove = -9999;var bestMoveFound;for(var i = 0; i = bestMove) {bestMove = value;bestMoveFound = newGameMove;}}return bestMoveFound;};var minimax = function (depth, game, alpha, beta, isMaximisingPlayer) {if (depth === 0) {var curPos = game.</description>
+    </item>
+    
+  </channel>
+</rss>

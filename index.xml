@@ -6,19 +6,10 @@
     <description>Recent content on Varun Dhananjaya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 May 2019 20:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2019 19:21:19 -0700</lastBuildDate>
     
 	<atom:link href="https://vdhanan.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Projects</title>
-      <link>https://vdhanan.github.io/projects/</link>
-      <pubDate>Fri, 31 May 2019 20:00:00 -0700</pubDate>
-      
-      <guid>https://vdhanan.github.io/projects/</guid>
-      <description>Coming soon!</description>
-    </item>
     
     <item>
       <title>Posts</title>
@@ -36,10 +27,19 @@
       
       <guid>https://vdhanan.github.io/about/</guid>
       <description>I am a recent graduate of Claremont McKenna College, where I majored in Computer Science (through neighboring Pomona College).
-I am curious, competitive, and hard-working.
+I am curious, outgoing, and hard-working.
 I like to play chess, poker, and basketball. Feel free to add me on chess.com if you play.
 I also like to read&amp;hellip; everything from graphic novels to personal essays.
 I write some of my musings about tech, film, and other miscellaneous topics on my blog.</description>
+    </item>
+    
+    <item>
+      <title>Chess Bot</title>
+      <link>https://vdhanan.github.io/projects/chess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vdhanan.github.io/projects/chess/</guid>
+      <description>Chess AI Play chess against an engine! Drag the white pieces to move. var board = nullvar game = new Chess()var minimaxRoot =function(depth, game, isMaximisingPlayer) {var newGameMoves = game.moves();var bestMove = -9999;var bestMoveFound;for(var i = 0; i = bestMove) {bestMove = value;bestMoveFound = newGameMove;}}return bestMoveFound;};var minimax = function (depth, game, alpha, beta, isMaximisingPlayer) {if (depth === 0) {var curPos = game.</description>
     </item>
     
   </channel>
